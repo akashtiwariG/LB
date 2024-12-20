@@ -22,6 +22,6 @@ jobs:
         run: npm run build
 
       - name: Run Generate
-        run: npm run Generate
+        run: npm run generate
 
         
